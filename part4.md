@@ -19,8 +19,6 @@ A place to run your cloud native applications, with varying levels of assumption
 
 ---
 
----
-
 ![](images/cnpcomponents.png)
 
 ---

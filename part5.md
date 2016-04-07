@@ -60,6 +60,11 @@ Back in the CLI, run: `git status`
 
 ---
 
+#Add To Repo
+`git add .`
+
+---
+
 #Commit That Change
 
 `git commit -a -m "My Changes Are Awesome"`
