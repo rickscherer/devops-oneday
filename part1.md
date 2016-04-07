@@ -1,3 +1,7 @@
+#Definitions And Why?
+
+---
+
 Things DevOps 'is':
 
 * culture and operational model
@@ -38,7 +42,10 @@ Advantages:
 
 The Manifesto:
 
-* Individuals and interactions over processes and tools* Working software over comprehensive documentation* Customer collaboration over contract negotiation* Responding to change over following a plan.
+* Individuals and interactions over processes and tools
+* Working software over comprehensive documentation
+* Customer collaboration over contract negotiation
+* Responding to change over following a plan.
 
 ---
 
@@ -58,4 +65,7 @@ its all about the promises, baby.
 ---
 
 ![](images/traditionalapp.png)
+
+---
+
 ![](images/cna.png)

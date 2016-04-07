@@ -44,7 +44,7 @@ A Cloud Native Platform for people who want to get stuff done.
  
 ---
  
-![](https://github.com/cloudfoundry/docs-cloudfoundry-concepts/blob/master/images/diego/diego-overview.png?raw=true)
+![original 150%](https://github.com/cloudfoundry/docs-cloudfoundry-concepts/blob/master/images/diego/diego-overview.png?raw=true)
  
 ---
 
@@ -61,7 +61,7 @@ A Cloud Native Platform for people who want to get stuff done.
 * Move into the directory:
   * `cd hello-python`
   * `cd version2`
-  * `cf push`
+  * `cf push cf-hellopython-lastname`
   
 ---
 

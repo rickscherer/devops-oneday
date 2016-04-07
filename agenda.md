@@ -69,7 +69,3 @@ What can we sell?
 * DSSD
 * ECS & Rubicon
 * vCloud Air / Virtustream
-
----
-
-# Role Play Scenarios
