@@ -209,9 +209,9 @@ As an end user, I want an app that:
 * grabs images from twitter
 * filters by hash tag
 
-so that
+so that:
 
-I have a better view of the sentiment for my topic
+* I have a better view of the sentiment for my topic
 
 ---
 
