@@ -46,7 +46,7 @@ Most open source projects are hosted and collaborated on here.
 
 Now, explore that repo folder:
 
-* `cd foo` = change to directory `foo`
+* `cd training-rep` = change to directory `training-rep`
 * `cd ..` = move up to parent directory
 * `ls` or `dir` = show the directory contents
 
