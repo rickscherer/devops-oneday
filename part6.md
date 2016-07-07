@@ -54,7 +54,7 @@ A Cloud Native Platform for people who want to get stuff done.
 
 ---
 
-* Clone this repo: `git clone https://github.com/mcowger/hello-python.git`
+* Clone this repo: `git clone https://github.com/rickscherer/hello-python.git`
 * Login to `cf`: `cf login`
   * target `api.run.pivotal.io`
   * This is Pivotal Web Services
