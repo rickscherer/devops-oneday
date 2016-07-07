@@ -166,13 +166,13 @@ Heavy weight methodologies work in some instances, but there are high costs, and
 
 ---
 
-# Iterative
+# Incremental
 
 ![inline](images/iterative.png)
 
 ---
 
-# Incremental
+# Iterative
 
 ![inline](images/incremental.png)
 
